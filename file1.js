@@ -7,5 +7,5 @@ const result = num2 - num1 ;
 const result1 = num1 * num2 ;
 const result1 = num2 / num1 ;
 const div = num3 / num4;
-console.log(result1)
+
 
