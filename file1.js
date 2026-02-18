@@ -3,6 +3,8 @@ const num2 = 20;
 const num3 = 30; 
 const num4 = 30; 
 const num5 = 30; 
+const num6 = 303; 
+const num7 = 210; 
 const result = num1 + num2 ;
 const result2 = num2 - num1 ;
 
