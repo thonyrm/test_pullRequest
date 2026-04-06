@@ -5,3 +5,4 @@ const num3 = 100;
 
 const result = num1 + num2 ;
 const result2 = num2 - num1 ;
+const result3 = num3 - num4;
