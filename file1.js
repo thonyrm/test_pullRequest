@@ -7,5 +7,3 @@ const num6 = 2000 ;
 
 const result = num1 + num2 ;
 const result2 = num2 - num1 ;
-
- 
