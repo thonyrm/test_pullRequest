@@ -4,4 +4,3 @@ const num3 = 300;
 const num4 = 100; 
 
 const result = num1 + num2 ;
-const result2 = num2 - num1 ;
