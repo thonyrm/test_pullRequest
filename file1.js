@@ -1,9 +1,9 @@
 const num1  = 10 ;
 const num2 = 20; 
 const num3 = 300; 
-const num4 = 100; 
-const num5 = 100; 
-const num6 = 100; 
+const num4 = 400; 
+const num5 = 500; 
+const num6 = 600; 
 const num7 = 700; 
 const num8 = 500; 
 const result = num1 + num2 ;
