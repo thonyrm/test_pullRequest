@@ -5,6 +5,5 @@ const num4 = 400;
 const num5 = 500; 
 const num6 = 600; 
 const num7 = 700;  
-const num8 = 800; 
 
 const result = num1 + num2 ;
