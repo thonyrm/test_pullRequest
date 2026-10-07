@@ -8,5 +8,7 @@ const num7 = 700;
 const num8 = 800;  
 const num9 = 900;  
 const num10 = 1000;  
+const num11 = 900;  
+const num12 = 1000;  
 
 const result = num1 + num2 ;
