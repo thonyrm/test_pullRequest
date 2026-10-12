@@ -10,5 +10,5 @@ const num9 = 900;
 const num10 = 1000;  
 const num11 = 900;  
 const num12 = 1000;  
-
+const num13 = 1500;  
 const result = num1 + num2 ;
